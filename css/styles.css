@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Assistant&display=swap');
+
+* {
+    box-sizing: border-box;
+    margin:0;
+    padding:0;
+    width:100%;
+    font-size:62.5%;
+    line-height: 1.5rem;
+
+}
+.container {
+    width:1200px;
+    margin:0 auto;
+}
+
+body {
+    background-color: salmon;
+    font-family: 'Assistant', sans-serif;
+}
+
+h1{
+    font-size:2.4rem;
+}
+
+h2{
+
+    font-size:2rem;
+}
+
+p, a{
+    font-size: 1.6rem;
+}
+
+a {
+    text-decoration: none;
+    font-size: 2.2rem;
+
+}
+
+img {
+    width: 200px;
+}
+
+nav {
+    display:flex;
+    margin:20px 0;
+    justify-content: space-around;
+}
