@@ -45,5 +45,16 @@ img {
 nav {
     display:flex;
     margin:20px 0;
-    justify-content: space-around;
+}
+
+.content{
+    border:1px solid black;
+    margin:20px;
+    display:flex;
+    padding:20px 0;
+    justify-content: space-between;
+}
+
+.food-content{
+
 }
